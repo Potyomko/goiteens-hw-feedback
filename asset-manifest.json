@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goiteens-hw-feedback/static/css/main.b5320759.css",
+    "main.js": "/goiteens-hw-feedback/static/js/main.c9d19c7d.js",
+    "index.html": "/goiteens-hw-feedback/index.html",
+    "main.b5320759.css.map": "/goiteens-hw-feedback/static/css/main.b5320759.css.map",
+    "main.c9d19c7d.js.map": "/goiteens-hw-feedback/static/js/main.c9d19c7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5320759.css",
+    "static/js/main.c9d19c7d.js"
+  ]
+}
